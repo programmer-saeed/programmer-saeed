@@ -39,7 +39,7 @@
 <br />
 -->
 
-
+<!--
 Here are some ideas to get you started
 - 🌱 I’m currently learning App Development with Flutter.
 - 🎓 I'm currently studying Computer Science and Engineering.
@@ -49,11 +49,11 @@ Here are some ideas to get you started
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 <p align="center"><img src="https://raw.githubusercontent.com/RaihanEXE99/RaihanEXE99/main/assets/header.png"></p>
 
 <h1 align="center">
-   Hi <img src="https://raw.githubusercontent.com/RaihanEXE99/RaihanEXE99/main/assets/wave.gif" height="40"> I'm Raihan Chowdhury 
+   Hi <img src="https://raw.githubusercontent.com/RaihanEXE99/RaihanEXE99/main/assets/wave.gif" height="40"> I'm Kazi Saeed Hossain
   <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </h1>
 
