@@ -1,4 +1,4 @@
-# Hi👋I'm Kazi Saeed Hossain https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif
+# Hi👋I'm Kazi Saeed Hossain 
 
 
 **CodeFather-Saeed/CodeFather-Saeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
