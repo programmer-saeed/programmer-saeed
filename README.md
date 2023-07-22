@@ -60,7 +60,7 @@ Here are some ideas to get you started
 - 🌱 I’m currently learning App Development with Flutter
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 🎓 I'm currently studying Computer Science and Engineering.
-- 🌱 I'm on track for learning more about Front-End Web Development, Digital Projects & Product Management.
+- 🌱 I'm on track for learning more about Front-End Web Development, Digital  Projects  &  Product Management.
 - 📫 How to reach me: [Discord](https://discord.gg/xP9wH4NVWt) , [Facebook](https://www.facebook.com/CodeFather.Saeed)
 - ✉️ You can shoot me an email at kazisaeed8056@gmail.com! I'll try to respond as soon as I can.
 
