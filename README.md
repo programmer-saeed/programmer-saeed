@@ -8,14 +8,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="saeed" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hello_saeed_" target="blank"><img src="https://img.shields.io/twitter/follow/kazi Saeed hossain?logo=twitter&style=for-the-badge" alt="saeed" /></a> </p>
-<h4>🌱 I’m currently learning App Development with Flutter</h4>
-<h4> 💡 I like to explore new technologies and develop software solutions and quick hacks.</h4>
+🌱 I’m currently learning App Development with Flutter.
+
+💡 I like to explore new technologies and develop software solutions and quick hacks.
+
 🎓 I'm currently studying Computer Science and Engineering.
+
 🌱 I'm on track to learning more about Data Science and Artificial Intelligence.
 
-- 📫 How to reach me **kazisaeed8056@gmail.com**
+📫 How to reach me **kazisaeed8056@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+⚡ Fun fact **I am Funny** 😃😀
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
