@@ -1,4 +1,3 @@
-
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://welcome2saeed.info)
 <h1 align="center">Hi 👋, I'm Kazi Saeed Hossain 👨‍💻 </h1>
 <h3 align="center">A passionate Flutter Developer from Bangladesh</h3>
@@ -8,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="saeed" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hello_saeed_" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="Saeed" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hello_saeed_" target="blank"><img src="https://img.shields.io/twitter/follow/kazi Saeed hossain?logo=twitter&style=for-the-badge" alt="saeed" /></a> </p>
 <h4>🌱 I’m currently learning App Development with Flutter</h4>
 <h4> 💡 I like to explore new technologies and develop software solutions and quick hacks.</h4>
 🎓 I'm currently studying Computer Science and Engineering.
