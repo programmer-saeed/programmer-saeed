@@ -10,13 +10,14 @@
 <p align="left"> <a href="https://twitter.com/hello_saeed_" target="blank"><img src="https://img.shields.io/twitter/follow/kazi Saeed hossain?logo=twitter&style=for-the-badge" alt="saeed" /></a> </p>
 🌱 I’m currently learning App Development with Flutter.
 
+
 💡 I like to explore new technologies and develop software solutions and quick hacks.
 
 🎓 I'm currently studying Computer Science and Engineering.
 
 🌱 I'm on track to learning more about Data Science and Artificial Intelligence.
 
-📫 How to reach me **kazisaeed8056@gmail.com**
+📫 You can shoot me an email at **kazisaeed8056@gmail.com**! I'll try to respond as soon as I can.
 
 ⚡ Fun fact **I am Funny** 😃😀
 
