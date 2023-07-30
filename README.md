@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://welcome2saeed.info)
 
-<h1 align="center">
+<h1 align="right">
    Hi <img src="https://raw.githubusercontent.com/RaihanEXE99/RaihanEXE99/main/assets/wave.gif" height="40"> I'm Kazi Saeed Hossain
   <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </h1>
