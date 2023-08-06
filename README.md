@@ -18,7 +18,7 @@
 
 💡 I like to explore new technologies and develop software solutions and quick hacks.
 
-🎓 I'm currently studying for a B.Sc in Computer Science& Engineering (CSE) at the National University Of Bangladesh.
+🎓 I'm currently studying for a B.Sc in Computer Science & Engineering (CSE) at the National University Of Bangladesh.
 
 🌱 I'm on track to learning more about Data Science and Artificial Intelligence.
 
