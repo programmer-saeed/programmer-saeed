@@ -14,8 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/hello_saeed_" target="blank"><img src="https://img.shields.io/twitter/follow/kazi Saeed hossain?logo=twitter&style=for-the-badge" alt="saeed" /></a> </p>
 🌱 I’m currently learning App Development with Flutter.
-
-
+<br>
 💡 I like to explore new technologies and develop software solutions and quick hacks.
 
 🎓 I'm currently studying for a B.Sc in Computer Science & Engineering (CSE) at the National University Of Bangladesh.
