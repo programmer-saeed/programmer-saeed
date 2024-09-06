@@ -36,10 +36,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hello_saeed_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saeed" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kazi-saeed-hossain-193843226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saeed" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kazisoft.ltd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saeed" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCGNNXsROxOnfYwum6lar9Bw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saeed" height="30" width="40" /></a>
+<a href="https://x.com/Saeed247Tweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saeed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kazisaeed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saeed" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kazi_saeed_hossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saeed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kazi-saeed-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saeed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
