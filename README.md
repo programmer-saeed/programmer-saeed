@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/FSeb8RafwEc5yj8oa0/giphy.gif" width="480" height="264" alt="GIF via Giphy">
+</div>
+
+<p align="center">
+  <a href="https://giphy.com/gifs/FSeb8RafwEc5yj8oa0">via GIPHY</a>
+</p>
 
 [![MasterHead](<iframe src="https://giphy.com/embed/FSeb8RafwEc5yj8oa0" width="480" height="264" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/FSeb8RafwEc5yj8oa0">via GIPHY</a></p>)](https://kazisaeedhossain.com)
 <h1 align="center">
