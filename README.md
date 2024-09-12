@@ -7,7 +7,7 @@
   <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </h1>
 
-<h3 align="center">A passionate Software Product Manager from Bangladesh</h3>
+<h3 align="center">A passionate Digital Product Manager from Bangladesh</h3>
 <br>
 
 <p align="center"><b>Visitor's Count</b></p>
