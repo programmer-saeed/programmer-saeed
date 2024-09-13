@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/FSeb8RafwEc5yj8oa0/giphy.gif" width="100%" alt="GIF via Giphy">
+  <img src="https://media.giphy.com/media/FSeb8RafwEc5yj8oa0/giphy.gif" width="100%" hight="80%" alt="GIF via Giphy">
 </div>
 
 <h1 align="center">
@@ -7,7 +7,7 @@
   <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </h1>
 
-<h3 align="center">A passionate Digital Product Manager from Bangladesh</h3>
+<h2 align="center">Agile Digital Product Manager from Bangladesh</h2>
 <br>
 
 <p align="center"><b>Visitor's Count</b></p>
