@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/FSeb8RafwEc5yj8oa0/giphy.gif" width="100%" hight="80%" alt="GIF via Giphy">
 </div>
 
-<h1 align="center">
+<h1 align="left">
    Hi <img src="https://raw.githubusercontent.com/RaihanEXE99/RaihanEXE99/main/assets/wave.gif" height="40"> Nice to see you.
   <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </h1>
