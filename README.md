@@ -7,7 +7,7 @@
   <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </h1>
 
-<h2 align="center">Agile Digital Product Manager </h2>
+
 <br>
 
 <p align="center"><b>Visitor's Count</b></p>
