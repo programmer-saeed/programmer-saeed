@@ -40,6 +40,6 @@
 <p align="left">
 <a href="https://x.com/Saeed247Tweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saeed" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kazisaeed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saeed" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kazi_saeed_hossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saeed" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kazi.saeed.hossain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saeed" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@kazi-saeed-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saeed" height="30" width="40" /></a>
 </p>
