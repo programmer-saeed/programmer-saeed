@@ -19,7 +19,14 @@
   <a href="https://www.upwork.com/freelancers/~01c7c4d720ed591622?viewMode=1" target="blank">
     <img src="https://img.shields.io/badge/Upwork-Profile-green?logo=upwork&style=for-the-badge" alt="Upwork" />
   </a>
+</p> 
+
+<p align="left">
+  <a href="https://www.fiverr.com/yourusername" target="blank">
+    <img src="https://img.shields.io/badge/Fiverr-Profile-green?logo=fiverr&style=for-the-badge" alt="Fiverr" />
+  </a>
 </p>
+
 
 🌱 I’m currently learning App Development with Flutter.
 
