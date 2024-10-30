@@ -26,11 +26,14 @@
 </p> 
 
 <p align="left">
-  <a href="https://www.fiverr.com/yourusername" target="blank">
-    <img src="https://img.shields.io/badge/Fiverr-Profile-green?logo=fiverr&style=for-the-badge" alt="Fiverr" />
+  <a href="https://www.freelancer.com/u/yourusername" target="blank">
+    <img src="https://img.shields.io/badge/Freelancer-Profile-blue?logo=freelancer&style=for-the-badge" alt="Freelancer" />
   </a>
-</p>
 
+  <a href="https://www.toptal.com/resume/yourusername" target="blank">
+    <img src="https://img.shields.io/badge/Toptal-Profile-blue?logo=toptal&style=for-the-badge" alt="Toptal" />
+  </a>  
+</p>
 
 🌱 I’m currently learning App Development with Flutter.
 
