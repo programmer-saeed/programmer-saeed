@@ -15,14 +15,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-
-<p align="left"> <a href="https://www.upwork.com/freelancers/~01c7c4d720ed591622?viewMode=1" target="blank"><img src="https://img.shields.io/twitter/follow/kazi Saeed hossain?logo=facebook&style=for-the-badge" alt="saeed" /></a> </p>
 <p align="left">
   <a href="https://www.upwork.com/freelancers/~01c7c4d720ed591622?viewMode=1" target="blank">
     <img src="https://img.shields.io/badge/Upwork-Profile-green?logo=upwork&style=for-the-badge" alt="Upwork" />
   </a>
 </p>
+
 🌱 I’m currently learning App Development with Flutter.
 
 
