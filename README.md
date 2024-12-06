@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/FSeb8RafwEc5yj8oa0/giphy.gif" width="100%" hight="80%" alt="GIF via Giphy">
-</div>
+
 
 <h1 align="center">
    Hi <img src="https://raw.githubusercontent.com/RaihanEXE99/RaihanEXE99/main/assets/wave.gif" height="40"> Nice to see you.
@@ -13,7 +11,7 @@
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BJisanEAE77%7D/count.svg" alt="visitor badge"/></p>
 
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
   <a href="https://www.upwork.com/freelancers/~01c7c4d720ed591622?viewMode=1" target="blank">
