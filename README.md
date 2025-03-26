@@ -33,22 +33,19 @@
   </a>  
 </p>
 
-🌱 I’m currently learning App Development with Flutter.
+🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast
 
+🌱 Currently learning CI/CD, Kubernetes, Docker, and Cloud Infrastructure.
 
+💡 Passionate about automating workflows, optimizing deployments, and exploring DevOps best practices.
 
-💡 I like to explore new technologies and develop software solutions and quick hacks.
+🎓 Pursuing a B.Sc. in Computer Science & Engineering (CSE) at the National University of Bangladesh.
 
+🌍 On track to mastering Cloud Computing, Infrastructure as Code (IaC), and Site Reliability Engineering (SRE).
 
-🎓 I'm currently studying for a B.Sc in Computer Science & Engineering (CSE) at the National University Of Bangladesh.
+📫 Feel free to reach out at kazisaeed8056@gmail.com—I’ll try to respond ASAP!
 
-
-🌱 I'm on track to learning more about Artificial Intelligence & Machine Learning.
-
-
-📫 You can shoot me an email at **kazisaeed8056@gmail.com**! I'll try to respond as soon as I can.
-
-⚡ Fun fact **I am Funny** 😃😀
+⚡ Fun fact: I automate things even in my sleep! 😃🚀
 
 
 <h3 align="left">Connect with me:</h3>
