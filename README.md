@@ -33,19 +33,19 @@
   </a>  
 </p>
 
-🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast
+🚀 Aspiring Digital Product Manager | Tech & Business Enthusiast
 
-🌱 Currently learning CI/CD, Kubernetes, Docker, and Cloud Infrastructure.
+🌱 Currently learning Agile Product Management, UX/UI Strategy, and Data-Driven Decision Making.
 
-💡 Passionate about automating workflows, optimizing deployments, and exploring DevOps best practices.
+💡 Passionate about building user-centric digital products, optimizing user experience, and managing cross-functional teams.
 
 🎓 Pursuing a B.Sc. in Computer Science & Engineering (CSE) at the National University of Bangladesh.
 
-🌍 On track to mastering Cloud Computing, Infrastructure as Code (IaC), and Site Reliability Engineering (SRE).
+🌍 On track to mastering Product Strategy, Market Analysis, and Digital Transformation.
 
 📫 Feel free to reach out at kazisaeed8056@gmail.com—I’ll try to respond ASAP!
 
-⚡ Fun fact: I automate things even in my sleep! 😃🚀
+⚡ Fun fact: I turn ideas into market-ready digital products! 😃🚀
 
 
 <h3 align="left">Connect with me:</h3>
