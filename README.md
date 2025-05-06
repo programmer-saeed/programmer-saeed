@@ -33,19 +33,19 @@
   </a>  
 </p>
 
-🚀 Aspiring Digital Product Manager | Tech & Business Enthusiast
+🚀 Aspiring Technical Product Manager | Tech & Business Enthusiast
 
-🌱 Currently learning Agile Product Management, UX/UI Strategy, and Data-Driven Decision Making.
+🌱 Currently learning Agile Product Management, UX/UI Strategy, and Data-Driven Decision Making to build impactful digital products with technical precision.
 
-💡 Passionate about building user-centric digital products, optimizing user experience, and managing cross-functional teams.
+💡 Passionate about building user-centric, market-ready digital products, enhancing user experience, and managing cross-functional teams to drive business outcomes.
 
-🎓 Pursuing a B.Sc. in Computer Science & Engineering (CSE) at the National University of Bangladesh.
+🎓 Pursuing a B.Sc. in Computer Science & Engineering (CSE) at the National University of Bangladesh, combining technical depth with product leadership skills.
 
-🌍 On track to mastering Product Strategy, Market Analysis, and Digital Transformation.
+🌍 On track to mastering Product Strategy, Market Analysis, and Digital Transformation to lead product innovation in the tech industry.
 
-📫 Feel free to reach out at kazisaeed8056@gmail.com—I’ll try to respond ASAP!
+📫 Feel free to reach out at kazisaeed8056@gmail.com — I’ll try to respond ASAP!
 
-⚡ Fun fact: I turn ideas into market-ready digital products! 😃🚀
+⚡ Fun fact: I turn real-world ideas into scalable digital solutions that users love! 😃🚀
 
 
 <h3 align="left">Connect with me:</h3>
