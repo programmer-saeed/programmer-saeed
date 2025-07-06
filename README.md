@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-   Hi <img src="https://raw.githubusercontent.com/RaihanEXE99/RaihanEXE99/main/assets/wave.gif" height="40"> Nice to see you.
+   Hi !!! Nice to see you.
 </h1>
 
 
