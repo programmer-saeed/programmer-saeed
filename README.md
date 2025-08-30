@@ -1,12 +1,3 @@
-
-
-<h1 align="center">
-   Hi 👋 😄 🚀<br> Nice to see you.
-</h1>
-
-
-<br>
-
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" /></p>
 
