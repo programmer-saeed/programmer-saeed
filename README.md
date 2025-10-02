@@ -1,8 +1,6 @@
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" /></p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 📫 Feel free to reach out at kazisaeed8056@gmail.com — I’ll try to respond ASAP!
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~01c7c4d720ed591622?viewMode=1" target="blank">
