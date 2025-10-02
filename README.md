@@ -13,7 +13,7 @@
   </a>
 </p> 
 
-<p align="left">
+<p align="Center">
   <a href="https://www.freelancer.com/u/yourusername" target="blank">
     <img src="https://img.shields.io/badge/Freelancer-Profile-blue?logo=freelancer&style=for-the-badge" alt="Freelancer" />
   </a>
